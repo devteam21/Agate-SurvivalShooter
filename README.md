@@ -1,5 +1,8 @@
 # Agate-SurvivalShooter
 
+## Release Download
+https://usaupload.com/4Y7b/Agate_SurvivalShooter.zip
+
 ## Preview
 ![2](https://user-images.githubusercontent.com/19890311/135295202-052086a6-5be3-4fd5-a9be-9a38b4502a1b.png)
 
